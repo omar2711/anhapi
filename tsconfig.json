@@ -19,5 +19,5 @@
     "noFallthroughCasesInSwitch": false,
     "rootDir": "./src"
   },
-  "include": ["src/main.ts"]
+  "include": ["src/**/*"]
 }
